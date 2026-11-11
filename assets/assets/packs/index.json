@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "packId": "ikco.dena",
+      "version": "1.1.0",
+      "archive": "ikco.dena-1.1.0.zip",
+      "checksum": "c92587d3696370f4669aa364653765fde174339a47507147b039c3a9fb644838",
+      "sizeBytes": 385229
+    },
+    {
+      "packId": "ikco.runna",
+      "version": "1.1.0",
+      "archive": "ikco.runna-1.1.0.zip",
+      "checksum": "4a3ed8c19cc3b4f55185320dcf17046632cd2e8a3756feef6884fa4b47fa0c83",
+      "sizeBytes": 284559
+    },
+    {
+      "packId": "ikco.samand",
+      "version": "1.1.0",
+      "archive": "ikco.samand-1.1.0.zip",
+      "checksum": "7d7b8b7bc491b3f59ba4cecf13e20d01a63b30e94bd1ce2d16c4bb331e634774",
+      "sizeBytes": 493146
+    },
+    {
+      "packId": "peugeot.206",
+      "version": "1.1.0",
+      "archive": "peugeot.206-1.1.0.zip",
+      "checksum": "1fb8ebc6cc370a9764d668cda60922d6d18b2ef6fe303ee03d6b4156d6d26011",
+      "sizeBytes": 735826
+    },
+    {
+      "packId": "peugeot.207",
+      "version": "1.1.0",
+      "archive": "peugeot.207-1.1.0.zip",
+      "checksum": "20c6277d5337ed85e48364d8de9d7cbf11f6aa0c68b7d249a9f1f66438c2d2b1",
+      "sizeBytes": 426825
+    },
+    {
+      "packId": "peugeot.207i",
+      "version": "1.1.0",
+      "archive": "peugeot.207i-1.1.0.zip",
+      "checksum": "faddf351252e14921af363838351cdd49a0c0b2f7f34d80f8dc8979d8a567536",
+      "sizeBytes": 823923
+    },
+    {
+      "packId": "peugeot.405",
+      "version": "1.1.0",
+      "archive": "peugeot.405-1.1.0.zip",
+      "checksum": "c7c099dca85ed7af9e7f6eeb41bb3f71dbdd7bdc5b663643293a6d604e787758",
+      "sizeBytes": 366678
+    },
+    {
+      "packId": "peugeot.pars",
+      "version": "1.1.0",
+      "archive": "peugeot.pars-1.1.0.zip",
+      "checksum": "d0753d51616fbf2faeab52ab0972246ffe389bc80d42a007c35c112c2090519d",
+      "sizeBytes": 386700
+    },
+    {
+      "packId": "saipa.pride",
+      "version": "1.1.0",
+      "archive": "saipa.pride-1.1.0.zip",
+      "checksum": "0186aafdb6859b738ddb1bf873edc74c8d65c1707c829f67506d294955830e41",
+      "sizeBytes": 384508
+    },
+    {
+      "packId": "saipa.quik",
+      "version": "1.1.0",
+      "archive": "saipa.quik-1.1.0.zip",
+      "checksum": "f8be85650ff5589ca46ccfcc4c81dac6ed93fdfb81d752f4f141b4f3d6c1cd19",
+      "sizeBytes": 285118
+    },
+    {
+      "packId": "saipa.saina",
+      "version": "1.1.0",
+      "archive": "saipa.saina-1.1.0.zip",
+      "checksum": "a1898c7a7ee59699d2a1cd0ded1a42eba6687dc14af7e11983e5b9168815de8d",
+      "sizeBytes": 446958
+    },
+    {
+      "packId": "saipa.shahin",
+      "version": "1.1.0",
+      "archive": "saipa.shahin-1.1.0.zip",
+      "checksum": "f42dc904dff93ec1616ab7d504a4cfd22be7317f3a6cddb05b898a1c1a7a6363",
+      "sizeBytes": 492930
+    },
+    {
+      "packId": "saipa.tiba",
+      "version": "1.1.0",
+      "archive": "saipa.tiba-1.1.0.zip",
+      "checksum": "47eda02efb984e32a6b95da3b1fa4cd590471d69631e18b7767f91cfef195ed8",
+      "sizeBytes": 521148
+    }
+  ]
+}

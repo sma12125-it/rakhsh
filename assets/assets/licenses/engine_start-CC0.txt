@@ -1,0 +1,12 @@
+assets/audio/engine_start.mp3
+=============================
+
+Source:   "Car engine Start Up 02" (engine_start_up_01.wav) by looneybits
+URL:      https://opengameart.org/content/car-engine-start-up-02
+Licence:  CC0 1.0 Universal (public domain dedication)
+          https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 requires no attribution; the credit is kept here out of courtesy and for provenance.
+
+Changes made for Rakhsh: loudness-normalised (EBU R128, -18 LUFS), a short fade-out added at the end, and encoded
+from 32-bit float WAV to 112 kbps MP3 so it plays on Android and in every browser. No other editing.
